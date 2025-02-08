@@ -1,7 +1,8 @@
 {
-  "name": "button-card1",
-  "content_in_root": false,
+  "name": "Your-Button-Card",
+  "description": "A custom button card for Home Assistant",
   "render_readme": true,
-  "filename": "button-card.js",
-  "homeassistant": "2023.7.0"
+  "title": "button-card",
+  "type": "frontend",
+  "zip_release": true
 }
