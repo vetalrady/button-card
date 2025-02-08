@@ -2,7 +2,7 @@
   "name": "Your-Button-Card",
   "description": "A custom button card for Home Assistant",
   "render_readme": true,
-  "title": "button-card",
+  "title": "button-card-1",
   "type": "frontend",
   "zip_release": true
 }
